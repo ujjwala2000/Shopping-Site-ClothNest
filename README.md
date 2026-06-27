@@ -1,4 +1,4 @@
-# 🛍️ ClothNest – Online Fashion Shopping Website
+# 🛍️ ClothNest – Online Shopping Website
 
 ClothNest is a modern and responsive e-commerce web application that provides users with a seamless online shopping experience. The platform allows customers to browse fashion products, search for items, manage their shopping cart, create wishlists, and securely place orders through an intuitive user interface.
 
